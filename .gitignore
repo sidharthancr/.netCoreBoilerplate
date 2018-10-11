@@ -1,0 +1,19 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Test/BoilerPlate.Test/obj
+/Test/BoilerPlate.Test/bin/Debug/netcoreapp2.1
+/src/BoilerPlate/obj
+/src/BoilerPlate/bin/Debug/netcoreapp2.1
+/src/BoilerPlate.Contract/obj
+/src/BoilerPlate.Contract/bin/Debug/netcoreapp2.1
+/src/BoilerPlate.DataAccess/bin/Debug/netcoreapp2.1
+/src/BoilerPlate.DataAccess/obj
+/src/CosmosDB/bin/Debug/netcoreapp2.1
+/src/CosmosDB/obj
+/src/EventHub/bin/Debug/netcoreapp2.1
+/src/EventHub/obj
+/src/ServiceBus/bin/Debug/netcoreapp2.1
+/src/ServiceBus/obj
+/.vs

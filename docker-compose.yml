@@ -1,0 +1,12 @@
+version: '3'
+
+services:
+  boilerplate:
+    image: boilerplate
+    build:
+      context: .
+      dockerfile: Dockerfile
+    environment:
+      - ASPNETCORE_ENVIRONMENT=Development
+    ports:
+      - "5000:80"
